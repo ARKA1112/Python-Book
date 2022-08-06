@@ -1,0 +1,5 @@
+#The output of the script1.py file is saved as this text file
+
+linux
+1267650600228229401496703205376
+spamspamspamspamspamspamspamspam

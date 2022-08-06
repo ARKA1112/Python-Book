@@ -1,1 +1,3 @@
-print("Hello World1")
+for x in 'spam':
+    print(x)
+    print('done')
