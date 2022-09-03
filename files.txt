@@ -2,15 +2,3 @@ Hello
 Hello
 Hello
 World
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-ss
-=======
-aa
->>>>>>> 80efaa7 (bitbucket commit)
-=======
->>>>>>> 1a6f1f3 (dd)
-=======
-sdsdf
->>>>>>> 2ae82af (dfd)
