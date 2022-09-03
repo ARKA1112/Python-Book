@@ -1,38 +1,18 @@
 {
     "workbench.colorCustomizations": {
-<<<<<<< HEAD
-        "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#a8b3f0",
-        "sideBar.border": "#a8b3f0",
-        "statusBar.background": "#7c8de9",
-        "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#5067e2",
-        "statusBarItem.remoteBackground": "#7c8de9",
-        "statusBarItem.remoteForeground": "#15202b",
-        "tab.activeBorder": "#a8b3f0",
-        "titleBar.activeBackground": "#7c8de9",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#7c8de999",
-        "titleBar.inactiveForeground": "#15202b99"
-    },
-    "peacock.color": "#7c8de9",
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
-=======
         "commandCenter.border": "#e7e7e799",
-        "sash.hoverBorder": "#26ae85",
-        "sideBar.border": "#26ae85",
-        "statusBar.background": "#1d8465",
+        "sash.hoverBorder": "#c94a33",
+        "sideBar.border": "#c94a33",
+        "statusBar.background": "#a03b29",
         "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#26ae85",
-        "statusBarItem.remoteBackground": "#1d8465",
+        "statusBarItem.hoverBackground": "#c94a33",
+        "statusBarItem.remoteBackground": "#a03b29",
         "statusBarItem.remoteForeground": "#e7e7e7",
-        "tab.activeBorder": "#26ae85",
-        "titleBar.activeBackground": "#1d8465",
+        "tab.activeBorder": "#c94a33",
+        "titleBar.activeBackground": "#a03b29",
         "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#1d846599",
+        "titleBar.inactiveBackground": "#a03b2999",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#1d8465"
->>>>>>> 28bc865 (few changes)
+    "peacock.color": "#a03b29"
 }
