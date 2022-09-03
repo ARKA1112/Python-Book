@@ -1,6 +1,7 @@
 {
     "workbench.colorCustomizations": {
         "commandCenter.border": "#e7e7e799",
+<<<<<<< HEAD
         "sash.hoverBorder": "#2ba15f",
         "sideBar.border": "#2ba15f",
         "statusBar.background": "#207947",
@@ -15,4 +16,39 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#207947"
+=======
+<<<<<<< Updated upstream
+        "sash.hoverBorder": "#63a9bb",
+        "sideBar.border": "#63a9bb",
+        "statusBar.background": "#4791a4",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#63a9bb",
+        "statusBarItem.remoteBackground": "#4791a4",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#63a9bb",
+        "titleBar.activeBackground": "#4791a4",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#4791a499",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#4791a4",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+=======
+        "sash.hoverBorder": "#101ce0",
+        "sideBar.border": "#101ce0",
+        "statusBar.background": "#0d16b1",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#101ce0",
+        "statusBarItem.remoteBackground": "#0d16b1",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#101ce0",
+        "titleBar.activeBackground": "#0d16b1",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#0d16b199",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#0d16b1"
+>>>>>>> Stashed changes
+>>>>>>> bitbucket/main
 }
