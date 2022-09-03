@@ -2,6 +2,7 @@
     "workbench.colorCustomizations": {
         "commandCenter.border": "#e7e7e799",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "sash.hoverBorder": "#2ba15f",
         "sideBar.border": "#2ba15f",
         "statusBar.background": "#207947",
@@ -51,4 +52,20 @@
     "peacock.color": "#0d16b1"
 >>>>>>> Stashed changes
 >>>>>>> bitbucket/main
+=======
+        "sash.hoverBorder": "#26ae85",
+        "sideBar.border": "#26ae85",
+        "statusBar.background": "#1d8465",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#26ae85",
+        "statusBarItem.remoteBackground": "#1d8465",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#26ae85",
+        "titleBar.activeBackground": "#1d8465",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#1d846599",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#1d8465"
+>>>>>>> aa532ab5bd9ff56a1b84ed1ee29e8246353d12c5
 }
