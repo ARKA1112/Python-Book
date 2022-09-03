@@ -1,71 +1,18 @@
 {
     "workbench.colorCustomizations": {
-        "commandCenter.border": "#e7e7e799",
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "sash.hoverBorder": "#2ba15f",
-        "sideBar.border": "#2ba15f",
-        "statusBar.background": "#207947",
-        "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#2ba15f",
-        "statusBarItem.remoteBackground": "#207947",
-        "statusBarItem.remoteForeground": "#e7e7e7",
-        "tab.activeBorder": "#2ba15f",
-        "titleBar.activeBackground": "#207947",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#20794799",
-        "titleBar.inactiveForeground": "#e7e7e799"
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#3cf6f6",
+        "sideBar.border": "#3cf6f6",
+        "statusBar.background": "#0bf4f4",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#09c3c3",
+        "statusBarItem.remoteBackground": "#0bf4f4",
+        "statusBarItem.remoteForeground": "#15202b",
+        "tab.activeBorder": "#3cf6f6",
+        "titleBar.activeBackground": "#0bf4f4",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#0bf4f499",
+        "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#207947"
-=======
-<<<<<<< Updated upstream
-        "sash.hoverBorder": "#63a9bb",
-        "sideBar.border": "#63a9bb",
-        "statusBar.background": "#4791a4",
-        "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#63a9bb",
-        "statusBarItem.remoteBackground": "#4791a4",
-        "statusBarItem.remoteForeground": "#e7e7e7",
-        "tab.activeBorder": "#63a9bb",
-        "titleBar.activeBackground": "#4791a4",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#4791a499",
-        "titleBar.inactiveForeground": "#e7e7e799"
-    },
-    "peacock.color": "#4791a4",
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
-=======
-        "sash.hoverBorder": "#101ce0",
-        "sideBar.border": "#101ce0",
-        "statusBar.background": "#0d16b1",
-        "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#101ce0",
-        "statusBarItem.remoteBackground": "#0d16b1",
-        "statusBarItem.remoteForeground": "#e7e7e7",
-        "tab.activeBorder": "#101ce0",
-        "titleBar.activeBackground": "#0d16b1",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#0d16b199",
-        "titleBar.inactiveForeground": "#e7e7e799"
-    },
-    "peacock.color": "#0d16b1"
->>>>>>> Stashed changes
->>>>>>> bitbucket/main
-=======
-        "sash.hoverBorder": "#26ae85",
-        "sideBar.border": "#26ae85",
-        "statusBar.background": "#1d8465",
-        "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#26ae85",
-        "statusBarItem.remoteBackground": "#1d8465",
-        "statusBarItem.remoteForeground": "#e7e7e7",
-        "tab.activeBorder": "#26ae85",
-        "titleBar.activeBackground": "#1d8465",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#1d846599",
-        "titleBar.inactiveForeground": "#e7e7e799"
-    },
-    "peacock.color": "#1d8465"
->>>>>>> aa532ab5bd9ff56a1b84ed1ee29e8246353d12c5
+    "peacock.color": "#0bf4f4"
 }
