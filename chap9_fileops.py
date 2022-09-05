@@ -1,4 +1,4 @@
-myfile = open('myfile.txt', 'w')      #Open for text output:create/empty
+myfile = open('myfile.txt', 'w')      #Open for text output:create/empty0$$$
 myfile.write('hello text file\n')
 myfile.write('goodby text file\n')
 myfile.close()
