@@ -1,0 +1,19 @@
+{
+    "name": {
+        "fname": "Arka",
+        "lname": "Panda"
+    },
+    "job": [
+        "dev",
+        "ent",
+        "stu"
+    ],
+    "add": {
+        "dist": "hwh",
+        "state": "wb"
+    },
+    "comm": [
+        8768386306,
+        "bagha92@gmail.com"
+    ]
+}
