@@ -11,4 +11,4 @@ while True:
             print('low')
         else:
             print(num**2)
-print('Bye!')
+print('Bye!!!')

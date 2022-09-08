@@ -1,0 +1,4 @@
+L = [i for i in range(6)]
+while L:
+    front, *L = L
+    print(front, L)

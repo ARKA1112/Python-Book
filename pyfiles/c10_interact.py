@@ -1,4 +1,3 @@
-from timeit import timeit
 
 
 while True:
