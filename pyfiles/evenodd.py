@@ -14,9 +14,10 @@ self = int(self)
 cont = []
 while self < 100:
     if self % 2 == 0:
-        print(self)
         cont.append(self)
         self +=1
     else:
         self+=1
+if input("Do you want the numbers? ") == 'y':
+    print([i for i in cont])
 print("And contains total {} elements".format(len(cont)))
