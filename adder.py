@@ -1,5 +1,8 @@
-def adder(*args):
-    x=0
-    for i in args:
-        x += i
-    return x
+def adder(**kwargs):
+    a = kwargs.get(0,0)   #gets the zeroeth position in kwargs dict else returns o
+    for k in kwargs.keys():
+        a = a + kwargs[k]
+    return a
+
+
+
