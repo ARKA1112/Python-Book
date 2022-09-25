@@ -1,4 +1,4 @@
-if __name__ != '__main__':
+if __name__ == '__main__':
     name = input("enter file name: ")
 
     def countLines(name):
