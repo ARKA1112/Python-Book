@@ -5,3 +5,12 @@ class Person:
         self.pay = pay
 
 
+if __name__ == '__main__':
+    bob = Person('Bob Smith')
+    sue = Person('Sue Jones', job='dev', pay=100000)
+    print(bob.name, bob.pay)
+    print(sue.name,sue.job,sue.pay)
+    print(bob.name.split()[-1])    #extracts last name
+    sue.pay *= 1.10
+    print('%.2f'%(sue.pay))
+    print(sue)
