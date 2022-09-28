@@ -12,15 +12,15 @@ class Person:
 
 
 class Manager(Person):
-    def __init__(self, name, pay):
-        Person.__init__(self,name, 'mgr' , pay)
+    def __init__(self, name, pay, hobby='No hobby'):   #adding a hobby attribute which was not in person class
+        self.hobby = hobby
+        Person.__init__(self,name, 'mgr' , pay)   #inherits the __init__ of the person class
     def giveRaise(self, percent, bonus = 10):
         Person.giveRaise(self, percent+bonus)
     def __str__(self):
         return '(Manager: %s %s %.2f %s)' %(self.name, self.job,self.pay,self.hobby)
-    def hobby(self,hobby):
-        self.hobby = hobby
-        print(self.hobby)
+    
+      
 
 if __name__ == '__main__':
     bob = Person('Bob Smith','any',10000)
