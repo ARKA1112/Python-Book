@@ -12,3 +12,19 @@ class C:
     def m(self):
         X = 44
         self.X = 55
+
+if __name__ == '__main__':
+    print(X)
+    f()
+    g()
+    print(X)
+
+    obj = C()
+    print(obj.X)
+
+    obj.m()
+    print(obj.X)
+    print(C.X)
+
+    #print(C.m.X)   #fails as local variable within the function is not accessible outside
+    #print(g.X)
