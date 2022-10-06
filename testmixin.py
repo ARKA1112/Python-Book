@@ -6,7 +6,7 @@ class Super:
     def ham(self):
         pass
 
-class Sub(Super, ListIntance):
+class Sub(Super, ListTree):    #previously it was ListInstance
     def __init__(self):
         Super.__init__(self)
         self.data2 = 'eggs'
